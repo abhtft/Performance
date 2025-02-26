@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.ebextensions",
+    "\\.github",
+    "\\artifacts",
+    "\\src",
+    "\\src\\components",
+    "\\src\\pipeline"
+  ],
+  "SelectedNode": "\\.github",
+  "PreviewInSolutionExplorer": false
+}
